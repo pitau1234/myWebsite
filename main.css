@@ -1,16 +1,18 @@
 #body {
+    font-family: 'Sarpanch', sans-serif;
     background-color: purple;
     color: yellow;
 }
+#p {
+    color: red;
+}
 #l1 {
+    font-family: 'Tillana', cursive;
      color: black; 
 }
-#l2 {
+#l2 {font-family: 'Lobster Two', cursive;
      color: gray;
 }
 #l3 {
      color: white;
-}
-#p {
-     color: orange;
 }
