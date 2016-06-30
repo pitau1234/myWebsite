@@ -1,0 +1,44 @@
+body {
+    background: url(img/colors.jpg);
+}
+#h1 {
+    font-family: 'Permanent Marker', cursive;
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    background:#00FF00;
+}
+p {
+  margin: 0px;  
+}
+#l10 {
+    color: #FFFF00;
+    background: #4B0082;
+    list-style: square;
+    font-family: 'Pacifico', cursive;
+}
+#l11 {
+    color: #00FF88;
+     background:#FF2B00;
+     opacity: 0.9;
+}
+#l12 {
+    color: #FF00BF;
+     background:#80FF00;
+}
+#l13 {
+    color: #FFFF00;
+    background:#4000FF;
+}
+#l20 {
+    background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
+    list-style: square;
+    color: #FFFF00;
+    font-family: 'Pacifico', cursive;
+}
+#l30 {
+    background: #4B0082;
+    list-style: square;
+    color: #FFFF00;
+    font-family: 'Pacifico', cursive;
+}
