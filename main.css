@@ -1,18 +1,82 @@
 #body {
-    font-family: 'Sarpanch', sans-serif;
-    background-color: purple;
-    color: yellow;
+    
+    background-color: cyan;
+    color: orchid;
+    border: 2px solid blue;
+    background-image: url(img/tau.jpg);
 }
-#p {
+#h1 {
+    font-family: 'Permanent Marker', cursive;
     color: red;
 }
-#l1 {
-    font-family: 'Tillana', cursive;
-     color: black; 
+#h2 {
+    font-family: 'Yellowtail', cursive;
+    color: orange;
 }
-#l2 {font-family: 'Lobster Two', cursive;
-     color: gray;
+#h3 {
+    font-family: 'Permanent Marker', cursive;
+    color: gold;
+}
+#h4 {
+    font-family: 'Yellowtail', cursive;
+    color: green;
+}
+#h5 {
+    font-family: 'Permanent Marker', cursive;
+    color: blue;
+}
+#h6 {
+    font-family: 'Yellowtail', cursive;
+    color: purple;
+}
+ #p { 
+    font-family: 'font-family: 'Gochi Hand, cursive;
+    color: violet;
+}
+#l1 {
+    font-family: 'Homemade Apple', cursive;
+     color: magenta; 
+}
+#l2 {
+   font-family: 'Homemade Apple', cursive;
+     color: indigo;
 }
 #l3 {
-     color: white;
+    font-family: 'Homemade Apple', cursive;
+     text-decoration: overline;
+     background-color: indigo;
+     border: 3px  solid magenta;
+     list-style: none;
+     color: magenta;
+     display: block;
+     text-align: center;
+     margin-bottom: 2px;
+}
+#l4 {
+    font-family: 'Homemade Apple', cursive;
+     color: indigo;
+}
+#l5 {
+    font-family: 'Homemade Apple', cursive;
+     color: magenta;
+}
+#l6 {
+   font-family: 'Homemade Apple', cursive;
+     color: indigo;
+}
+#l7 {
+    font-family: 'Homemade Apple', cursive;
+     color: magenta;
+}
+#l8 {
+    font-family: 'Homemade Apple', cursive;
+     color: indigo;
+}
+#l9 {
+    font-family: 'Homemade Apple', cursive;
+     color: magenta;
+}
+#l10 {
+    font-family: 'Homemade Apple', cursive;
+     color: indigo;
 }
