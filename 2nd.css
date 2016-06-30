@@ -12,33 +12,38 @@ p {
   margin: 0px;  
 }
 #l10 {
-    color: #FFFF00;
+    background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
     background: #4B0082;
-    list-style: square;
+    list-style: none;
     font-family: 'Pacifico', cursive;
+    border: silver round 2px;
 }
 #l11 {
     color: #00FF88;
-     background:#FF2B00;
-     opacity: 0.9;
+    background: linear-gradient(330deg, #e05252 100%, #99e052 75%, #52e0e0 50%, #9952e0 25%, #e05252 0%);
+    border: silver double 2px;
 }
 #l12 {
     color: #FF00BF;
-     background:#80FF00;
+     background: linear-gradient(330deg, #e05252 100%, #99e052 75%, #52e0e0 50%, #9952e0 25%, #e05252 0%);
+     border: silver double 2px;
 }
 #l13 {
     color: #FFFF00;
-    background:#4000FF;
+   background: linear-gradient(330deg, #e05252 100%, #99e052 75%, #52e0e0 50%, #9952e0 25%, #e05252 0%);
+   border: silver double 2px;
 }
 #l20 {
     background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
-    list-style: square;
+    list-style: none;
     color: #FFFF00;
     font-family: 'Pacifico', cursive;
+    border: silver round 2px;
 }
 #l30 {
-    background: #4B0082;
-    list-style: square;
+    background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
+    list-style: none;
     color: #FFFF00;
     font-family: 'Pacifico', cursive;
+    border: silver round 2px;
 }
